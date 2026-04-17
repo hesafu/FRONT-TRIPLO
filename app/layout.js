@@ -33,7 +33,6 @@ export default function RootLayout({ children }) {
           {children}
         </main>
         <Footer />
-        <div className="noise-overlay" />
       </body>
     </html>
   );
